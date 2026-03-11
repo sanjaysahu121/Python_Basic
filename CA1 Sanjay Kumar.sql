@@ -69,4 +69,26 @@ GROUP BY Department;
 SELECT * FROM Student 
 ORDER BY Marks DESC;
 
+# Q 3
+** # Purpose of DataBase **
+No Redundancy: Prevents duplicate data.
+
+Data Integrity: Ensures data is accurate and follows rules.
+
+Security: Restricts unauthorized access.
+
+Concurrent Access: Multiple users can work at the same time.
+
+Easy Recovery: Handles backups and system crashes
+
+** # Components Of Database **
+Hardware: Physical devices like servers and hard drives.
+
+Software: The DBMS program (MySQL, Oracle) and Operating System.
+
+Data: The actual information + Metadata (data about data).
+
+Procedures: Instructions and rules for using the system.
+
+Users: DBA (Admin), Developers, and End-users.
  
